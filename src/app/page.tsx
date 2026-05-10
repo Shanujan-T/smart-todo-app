@@ -25,7 +25,7 @@ export default function HomePage() {
     <section className="space-y-8">
       <div className="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
         <h1 className="text-2xl font-semibold sm:text-3xl text-center">
-          Smart Todo App
+          Welcome, {userName}
         </h1>
         <p className="mt-2 text-slate-600 text-center">
           Stay organized. Stay productive. One task at a time.
